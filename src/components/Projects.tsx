@@ -7,7 +7,7 @@ const projects = [
     title: "Green Guard",
     subtitle: "Plant Identification System",
     description:
-      "An AI-powered plant identification system that analyzes images to detect plant species, health conditions, and diseases. Helps gardeners and farmers make informed decisions with real-time diagnosis.",
+      "Green Guard is a community-driven platform that combines AI-based plant identification with social features. Users can identify plants from images, share plant posts, discover nearby plants through geolocation, and request plant adoption. The platform also enables users to follow others, chat, and explore plants on an interactive map to encourage collaborative plant care. \nInspired by the idea of a “LinkedIn for plants,” where communities collaborate to care for local greenery.",
     tags: ["Python", "TensorFlow", "OpenCV", "Flask", "CNN"],
     github: "https://github.com/Value089/Green-Guard-Complete.git",
     accent: "from-green-500/20 via-emerald-500/10 to-transparent",
